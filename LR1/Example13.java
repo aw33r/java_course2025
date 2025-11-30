@@ -1,6 +1,8 @@
+package LR1;
+
 import java.util.Scanner;
 
-public class Example15 {
+public class Example13 {
     static void main() {
         Scanner in = new Scanner(System.in);
         System.out.println("Input firstNumber");
@@ -10,7 +12,6 @@ public class Example15 {
         int secondNumber = in.nextInt();
 
         System.out.println("sum = " + (firstNumber + secondNumber) );
-        System.out.println("diff = " + (firstNumber - secondNumber) );
-
-        in.close();}
+        in.close();
+    }
 }
