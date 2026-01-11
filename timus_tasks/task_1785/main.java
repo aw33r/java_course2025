@@ -1,4 +1,4 @@
-package timus_tasks.src.task_1785;
+package timus_tasks.task_1785;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
